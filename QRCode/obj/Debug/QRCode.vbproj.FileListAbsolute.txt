@@ -17,3 +17,22 @@ C:\Users\goff.rj\documents\visual studio 2015\Projects\QRCode\QRCode\bin\Debug\Q
 C:\Users\goff.rj\documents\visual studio 2015\Projects\QRCode\QRCode\bin\Debug\QRCode.application
 C:\Users\goff.rj\documents\visual studio 2015\Projects\QRCode\QRCode\obj\Debug\QRCode.exe.manifest
 C:\Users\goff.rj\documents\visual studio 2015\Projects\QRCode\QRCode\obj\Debug\QRCode.application
+F:\QR_Code\VB.NET Files\QRCode\QRCode\bin\Debug\QRCode.exe.config
+F:\QR_Code\VB.NET Files\QRCode\QRCode\bin\Debug\QRCode.exe.manifest
+F:\QR_Code\VB.NET Files\QRCode\QRCode\bin\Debug\QRCode.application
+F:\QR_Code\VB.NET Files\QRCode\QRCode\bin\Debug\QRCode.exe
+F:\QR_Code\VB.NET Files\QRCode\QRCode\bin\Debug\QRCode.pdb
+F:\QR_Code\VB.NET Files\QRCode\QRCode\bin\Debug\QRCode.xml
+F:\QR_Code\VB.NET Files\QRCode\QRCode\obj\Debug\QRCode.vbprojAssemblyReference.cache
+F:\QR_Code\VB.NET Files\QRCode\QRCode\obj\Debug\Interop.VBIDE.dll
+F:\QR_Code\VB.NET Files\QRCode\QRCode\obj\Debug\QRCode.vbproj.ResolveComReference.cache
+F:\QR_Code\VB.NET Files\QRCode\QRCode\obj\Debug\QRCode.Form1.resources
+F:\QR_Code\VB.NET Files\QRCode\QRCode\obj\Debug\QRCode.Form2.resources
+F:\QR_Code\VB.NET Files\QRCode\QRCode\obj\Debug\QRCode.Resources.resources
+F:\QR_Code\VB.NET Files\QRCode\QRCode\obj\Debug\QRCode.vbproj.GenerateResource.cache
+F:\QR_Code\VB.NET Files\QRCode\QRCode\obj\Debug\QRCode.exe.manifest
+F:\QR_Code\VB.NET Files\QRCode\QRCode\obj\Debug\QRCode.application
+F:\QR_Code\VB.NET Files\QRCode\QRCode\obj\Debug\QRCode.vbproj.CopyComplete
+F:\QR_Code\VB.NET Files\QRCode\QRCode\obj\Debug\QRCode.exe
+F:\QR_Code\VB.NET Files\QRCode\QRCode\obj\Debug\QRCode.xml
+F:\QR_Code\VB.NET Files\QRCode\QRCode\obj\Debug\QRCode.pdb

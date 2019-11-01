@@ -22,6 +22,7 @@ Partial Class Form1
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Form1))
         Me.Browse = New System.Windows.Forms.Button()
         Me.Generate = New System.Windows.Forms.Button()
         Me.TextBox1 = New System.Windows.Forms.TextBox()
@@ -66,10 +67,10 @@ Partial Class Form1
         '
         'PictureBox1
         '
-        Me.PictureBox1.Image = Global.QRCode.My.Resources.Resources.qrcode1
-        Me.PictureBox1.Location = New System.Drawing.Point(39, 4)
+        Me.PictureBox1.Image = CType(resources.GetObject("PictureBox1.Image"), System.Drawing.Image)
+        Me.PictureBox1.Location = New System.Drawing.Point(44, 12)
         Me.PictureBox1.Name = "PictureBox1"
-        Me.PictureBox1.Size = New System.Drawing.Size(208, 186)
+        Me.PictureBox1.Size = New System.Drawing.Size(177, 174)
         Me.PictureBox1.TabIndex = 5
         Me.PictureBox1.TabStop = False
         '
